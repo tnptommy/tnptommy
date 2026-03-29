@@ -1,123 +1,115 @@
 <div align="center">
 
 ```
-████████╗ ██████╗ ███╗   ███╗███╗   ███╗██╗   ██╗
-╚══██╔══╝██╔═══██╗████╗ ████║████╗ ████║╚██╗ ██╔╝
-   ██║   ██║   ██║██╔████╔██║██╔████╔██║ ╚████╔╝ 
-   ██║   ██║   ██║██║╚██╔╝██║██║╚██╔╝██║  ╚██╔╝  
-   ██║   ╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║   ██║   
-   ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝   ╚═╝   
+╔══════════════════════════════════════════════════════════╗
+║          TOMMY HUYNH  ·  tnptommy                        ║
+║          Networking & Cybersecurity · Sydney, AU         ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-### Hi there 👋 I'm **Tommy Huynh**
-
-**Network & Security Engineer · Lab Tutor @ UTS**
-
-*B.IT — Networking & Cybersecurity · University of Technology Sydney*  
-*Dean's List 2024 & 2025*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tommy-huynh-29936b1bb/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhchauhungthinh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tnptommy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tnptommy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tnptommy@gmail.com)
+[![UTS](https://img.shields.io/badge/UTS-Bachelor_of_IT-00A3E0?style=flat-square&logo=university&logoColor=white)](https://uts.edu.au)
 
 </div>
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
-Junior IT professional with hands-on experience across **network infrastructure**, **Windows/Linux systems**, and **endpoint security**.  
-Known for structured troubleshooting, clear documentation, and a versatile skill set across network, systems, security, and desktop support.
+IT graduate from **University of Technology Sydney** — specialising in **Networking & Cybersecurity** (WAM 91.05 · Dean's List 2024 & 2025).
 
-Currently tutoring **300+ students** across networking, security, and systems subjects at UTS — with 95% of supported students achieving Distinction or above.
+Currently working as a **Casual Academic / Lab Tutor** at UTS, supporting students across networking, security, and systems subjects.
+
+```
+🎓  B. Information Technology (Networking & Cybersecurity) — UTS
+🏆  Dean's List 2024 & 2025  ·  WAM 91.05
+🖥️  Lab Tutor — Networking · Security · Systems · Web Systems
+📍  Sydney, Australia
+🌏  Open to opportunities in AU & Vietnam
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Networking
+### Networking
 ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Palo Alto](https://img.shields.io/badge/Palo_Alto_NGFW-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-2C2C2C?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![EVE-NG](https://img.shields.io/badge/EVE--NG-222222?style=flat-square&logoColor=white)
 
-`TCP/IP` `VLANs` `OSPF` `BGP` `HSRP/VRRP` `STP` `EtherChannel` `NAT` `VPN` `QoS` `DHCP` `DNS`
-
-### 🔐 Security & SIEM
-![Wazuh](https://img.shields.io/badge/Wazuh-3AAED8?style=flat-square&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-
-`Sysmon` `IDS/IPS` `Firewall` `MITRE ATT&CK` `Incident Response`
-
-### 🖥️ Systems & Infrastructure
+### Systems & Infrastructure
 ![Windows Server](https://img.shields.io/badge/Windows_Server_2025-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![VMware ESXi](https://img.shields.io/badge/VMware_ESXi_8-607078?style=flat-square&logo=vmware&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-`AD DS` `DNS` `DHCP` `GPO` `DFS` `PKI` `AD CS`
+### Security
+![Wazuh](https://img.shields.io/badge/Wazuh-3ABECC?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 
-### ☁️ Cloud & Dev
+### Cloud & Dev
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
 ## 🔬 Lab Projects
 
-### 🏢 UTS Smart Campus Network Security Infrastructure
-> *EVE-NG · VMware Workstation · Cisco Catalyst · Palo Alto NGFW*
+### 🏢 UTS Smart Campus Network
+> Full enterprise campus network design & implementation
 
-- Designed and deployed a **multi-layer campus network** with VLANs, Inter-VLAN routing, DHCP, HSRP/VRRP, OSPF, BGP, STP, EtherChannel, and QoS
-- Enforced **Zero-Trust segmentation** via Palo Alto NGFW with App-ID, User-ID, zone-based security rules, and threat prevention profiles — improving simulated threat-detection coverage by **25%**
-- Provisioned full-stack endpoint images (Windows, Linux, IP cameras) within EVE-NG to simulate realistic campus traffic and IoT exposure
-- Produced full documentation: topology diagrams, configs, and hardening steps for repeatable deployment
+- Designed multi-layer campus topology (Core / Distribution / Access)
+- Configured VLANs, OSPF, HSRP, STP, and inter-VLAN routing
+- Implemented ACLs, NAT, and port security policies
+- Simulated in **EVE-NG** with Cisco IOSv routers and switches
 
 ---
 
 ### 🛡️ Virtual SOC Lab
-> *Windows Server 2025 · ESXi 8 · Splunk · Wazuh · Ubuntu Server · Kali Linux*
+> Security Operations Centre simulation environment
 
-- Built an end-to-end SOC environment with **Active Directory**, OPNsense firewall, and a Sysmon → Wazuh → Splunk logging pipeline
-- Simulated adversarial techniques: **lateral movement, Kerbrute, PowerShell abuse, DNS anomalies** — investigated via process tree analysis and telemetry correlation
-- Developed **MITRE ATT&CK-aligned detection rules** and produced structured IR-style incident reports demonstrating full SOC analyst workflow
+- Deployed **Wazuh SIEM** for log aggregation and threat detection
+- Integrated **Splunk** for dashboarding and alert correlation
+- Configured agents across Windows & Linux endpoints
+- Simulated attack scenarios: brute force, lateral movement, exfil
+
+---
+
+### ☁️ Hybrid Cloud Network Lab
+> On-premises to AWS cloud connectivity
+
+- Built **AWS Site-to-Site VPN** connecting on-prem to VPC
+- Configured **Cisco ASAv** firewall with IKEv2/IPSec tunnels
+- Used **Arista vEOS** for BGP peering
+- Documented topology in draw.io · Simulated in **EVE-NG**
 
 ---
 
 ### 🖥️ Windows Sysadmin Lab
-> *Windows Server 2025 · Windows 11 · VMware Workstation*
+> Enterprise Windows Server environment
 
-- Deployed a full Windows enterprise environment (Domain Controller, File Server, 4 clients) using **AD DS, DNS, DHCP, GPO, DFS, and PKI** from scratch
-- Enforced least-privilege NTFS permissions, USB blocking via Group Policy, and certificate auto-enrolment through **AD CS** across a departmental domain structure
-
----
-
-## 📚 Teaching & Tutoring @ UTS
-
-*Casual Academic — Tutor & Lab Assistant, Faculty of Engineering and IT · Aug 2024 – Present*
-
-| Subject | Area |
-|---------|------|
-| Network Fundamentals | Routing, Switching, TCP/IP |
-| Routing & Switching | VLANs, OSPF, STP, EtherChannel |
-| Cybersecurity | Firewalls, IDS/IPS, Threat Analysis |
-| Web Systems | HTML, CSS, JavaScript |
-| Systems Programming | Linux, C, OS concepts |
-
-📁 **Web Systems student resources:** [github.com/tnptommy/websystems](https://github.com/tnptommy/websystems)  
-🖥️ **Network & Server lab configs:** [github.com/tnptommy/network-servers](https://github.com/tnptommy/network-servers)
+- Deployed **Active Directory Domain Services** with OU structure
+- Configured **DNS**, **DHCP**, **Group Policy Objects**
+- Set up **Windows Server 2025** on VMware ESXi
+- Hardened environment with security baselines
 
 ---
 
-## 🏆 Honours & Certifications
+## 📚 Repositories
 
-- 🎓 **UTS Dean's List** — 2024 & 2025
-- 🥇 **Intel Expert Challenge Vietnam** — Top Competitor, IT Hardware, System Optimisation & Intel vPro (2022)
-- 📜 **Google IT Support Professional Certificate** — Coursera (2022)
+### 🌐 Networking & Cybersecurity
+| Repo | Description |
+|------|-------------|
+| [network-servers](https://github.com/tnptommy/network-servers) | Windows Server lab — AD DS, DNS, DHCP, GPO |
+
+### 🖥️ Web Systems
+| Repo | Description |
+|------|-------------|
+| [websystems](https://github.com/tnptommy/websystems) | UTS Web Systems — HTML, CSS, JS lab materials & student reference |
 
 ---
 
@@ -129,16 +121,28 @@ Currently tutoring **300+ students** across networking, security, and systems su
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnptommy&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tnptommy&theme=tokyonight&hide_border=true)
-
 </div>
+
+---
+
+## 🎓 Education & Achievements
+
+```
+🏛️  University of Technology Sydney
+     Bachelor of Information Technology
+     Major: Networking & Cybersecurity
+     WAM: 91.05  |  Dean's List: 2024, 2025
+
+📖  Casual Academic / Lab Tutor — UTS
+     Subjects: Networking · Security · Systems · Web Systems
+```
 
 ---
 
 <div align="center">
 
-*"Build labs. Break things. Learn deeply."*
+*"Security is not a product, but a process."* — Bruce Schneier
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tnptommy&color=0891b2&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=tnptommy&color=0e75b6&style=flat-square&label=Profile+Views)
 
 </div>
